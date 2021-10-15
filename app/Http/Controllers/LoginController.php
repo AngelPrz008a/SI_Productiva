@@ -40,7 +40,7 @@ class LoginController extends Controller
             ->with('rol', $rol);
 
         }else{
-            return redirect('login')->with('msg', "Usuario no encontrado :(");
+            return redirect('login')->with('msg', "Usuario no encontrado, intentelo de nuevo");
         }
 
         /*

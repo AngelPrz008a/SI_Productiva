@@ -103,7 +103,7 @@
                                         <a class="page-scroll" href="#team">Equipo</a>
                                     </li>-->
                                     <li class="nav-item">
-                                        <a class="main-btn wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.5s" href="{{ url('Login')}}"> Iniciar Sesión </a>
+                                        <a class="main-btn wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.5s" href="{{ url('login')}}"> Iniciar Sesión </a>
                                     </li>
                                 </ul>
                             </div>
@@ -130,7 +130,7 @@
                             <h2 class="header-title wow fadeInUp" data-wow-duration="1.3s" data-wow-delay="0.5s">basado en el Centro de Gestión de Mercados, Logística y Tecnologías de la Información</h2>
                             <p class="text wow fadeInUp" data-wow-duration="1.3s" data-wow-delay="0.8s"></p>
 
-                            <a class="main-btn-star wow fadeInUp" data-wow-duration="1.3s" data-wow-delay="1.5s" href="{{ url('Login')}}"> Empecemos </a>
+                            <a class="main-btn-star wow fadeInUp" data-wow-duration="1.3s" data-wow-delay="1.5s" href="{{ url('login')}}"> Empecemos </a>
                         </div>
                         <!-- header hero content -->
                     </div>
